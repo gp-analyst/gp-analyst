@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm George Pisimisis</h1>
+<h1 align="center">Hi 👋, I'm Georgios Pisimisis</h1>
 <h3 align="center">A passionate Maritime Data Analyst based in Athens, Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="gp-analyst" /> </p>
 
 - 🌱 I’m currently learning **TensorFlow Developer Professional Certificate**
+  
+- 📂 Check out my **Portfolio** [here](https://github.com/gp-analyst/Portfolio)
 
 - 📫 How to reach me **g.pisimisis@hotmail.com**
+
+- 💻 Take a look at my **Personal Website** [here](https://george.pisimisis.gr/)
 
 - ⚡ Fun fact **I am Funny**
 
