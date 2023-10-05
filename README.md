@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Georgios Pisimisis</h1>
 <h3 align="center">A passionate Maritime Data Analyst based in Athens, Greece</h3>
-<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<img align="right" alt="Coding" width="350" height="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="gp-analyst" /> </p>
 
 - 📂 Check out my **Portfolio** [**here**](https://github.com/gp-analyst/Portfolio)
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TensorFlow Developer Professional Certificate**
 
-- ⚡ A.I Joke: **Why are artificial intelligences in movies always female?**<br>&nbsp;&nbsp;          **Because they’re never wrong.**
+- ⚡ A.I Joke: **Why are artificial intelligences in movies always female?**<br>**Because they’re never wrong.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
