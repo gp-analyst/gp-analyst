@@ -7,7 +7,7 @@
 
 - 💻 Take a look at my **Personal Website** [**here**](https://george.pisimisis.gr/)
 
-- 📫 Send me an **Email** [**here**](g.pisimisis@hotmail.com)
+- 📫 Send me an **Email** [**here**](mailto:g.pisimisis@hotmail.com)
 
 - 🌱 I’m currently learning **TensorFlow Developer Professional Certificate**
 
