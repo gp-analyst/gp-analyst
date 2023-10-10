@@ -3,15 +3,16 @@
 <img align="right" alt="Coding" width="350" height="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <br/>
 
-- 📂 Check out my **Portfolio** [**here**](https://github.com/gp-analyst/Portfolio)
+- 📂 Check out my <a href="https://github.com/gp-analyst/Portfolio">**Portfolio**</a>
 
-- 💻 Take a look at my **Personal Website** [**here**](https://george.pisimisis.gr/)
+- 💻 Take a look at my <a href="https://george.pisimisis.gr">**Personal Website**</a>
 
-- 📫 Send me an **Email** [**here**](mailto:g.pisimisis@hotmail.com)
+- 📫 Send me an <a href="mailto:g.pisimisis@hotmail.com">**Email**</a>
 
-- 🌱 I’m currently learning **TensorFlow Developer Professional Certificate**
+- 🌱 I’m currently learning <a href="https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate">**TensorFlow Developer Professional Certificate**</a>
 
 - ⚡ A.I Joke: **Why are artificial intelligences in movies always female?**<br>**Because they’re never wrong.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
