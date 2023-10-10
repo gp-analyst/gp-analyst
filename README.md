@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Pisimisis</h1>
 <h3 align="center">A passionate Maritime Data Analyst based in Athens, Greece</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<img align="right" alt="Coding" width="350" height="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <br/>
 
 - 📂 Check out my <a href="https://github.com/gp-analyst/Portfolio">**Portfolio**</a>
