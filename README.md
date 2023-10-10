@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning <a href="https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate">**TensorFlow Developer Professional Certificate**</a>
 
 - ⚡ A.I Joke: **Why are artificial intelligences in movies always female?**<br/>**Because they’re never wrong.**
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
