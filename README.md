@@ -9,7 +9,7 @@
 
 - 📫 Send me an <a href="mailto:g.pisimisis@hotmail.com">**Email**</a>
 
-- 🌱 I’m currently learning <a href="https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate">**TensorFlow Developer Professional Certificate**</a>
+- 🌱 I’m currently learning <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-300/">**Microsoft Power BI Data Analyst**</a>
 
 - ⚡ A.I Joke: **Why are artificial intelligences in movies always female?**<br/>**Because they’re never wrong.**
 
