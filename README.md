@@ -5,7 +5,7 @@
 
 - 📂 Check out my <a href="https://github.com/gp-analyst/Portfolio">**Portfolio**</a>
 
-- 💻 Take a look at my <a href="https://george.pisimisis.gr">**Personal Website**</a>
+- 💻 Take a look at my <a href="https://gp-analyst.github.io">**Personal Website**</a>
 
 - 📫 Send me an <a href="mailto:g.pisimisis@hotmail.com">**Email**</a>
 
